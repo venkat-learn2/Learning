@@ -1,2 +1,6 @@
 console.log("hello github...")
 console.log("main branch")
+console.log("test conflict1")
+console.log("test conflict2")
+console.log("test conflict3")
+console.log("test conflict4")
