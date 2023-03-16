@@ -7,7 +7,7 @@ let n1 = 0, n2 = 1, nextTerm;
 console.log('Fibonacci Series:');
 console.log(n1); // print 0
 console.log(n2); // print 1
-
+console.log(m1)
 nextTerm = n1 + n2;
 
 while (nextTerm <= number) {
