@@ -21,3 +21,4 @@ while (nextTerm <= number) {
     n2 = nextTerm;
     nextTerm = n1 + n2;
 }
+console.log('something....')
