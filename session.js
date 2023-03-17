@@ -11,10 +11,9 @@ console.log(n3)
 console.log(n4)
 console.log(n5)
 nextTerm = n1 + n2;
-console.log("1")
-console.log("2")
-console.log("3")
-console.log("4")
+console.log('aaa')
+console.log('bb')
+console.log('ccc')
 while (nextTerm <= number) {
 
     // print the next term
@@ -24,3 +23,4 @@ while (nextTerm <= number) {
     n2 = nextTerm;
     nextTerm = n1 + n2;
 }
+console.log('something....')
